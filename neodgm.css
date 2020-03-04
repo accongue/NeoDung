@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'NeoDunggeunmo';
+	font-weight: 400;
+	src: url(neodgm.woff2) format('woff2'),
+		url(neodgm.woff) format('woff'),
+		url(neodgm.ttf) format('truetype');
+}
