@@ -1,8 +1,0 @@
-@font-face {
-	font-family: 'Neo Dung';
-	font-style: normal;
-	src: local('※'),
-		url('neodgm.woff2') format('woff2'),
-		url('neodgm.woff) format('woff'),
-		url('neodgm.ttf') format('truetype');
-}
